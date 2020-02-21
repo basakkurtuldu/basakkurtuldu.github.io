@@ -1,4 +1,4 @@
-#Başak Kurtuldu
+# Başak Kurtuldu
 ## iletişim bilgileri:  
 - *e-mail:* [basakurtuldu@gmail.com] (mailto:basakurtuldu@gmail.com)
 - *telefon:* +90 5423045786
