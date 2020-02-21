@@ -1,4 +1,7 @@
 # Başak Kurtuldu
+
+![](https://avatars3.githubusercontent.com/u/47870917?s=460&v=49)
+
 ## iletişim bilgileri:  
 - *e-mail:* [basakurtuldu@gmail.com](mailto:basakurtuldu@gmail.com)
 - *telefon:* +90 5423045786
@@ -8,4 +11,4 @@
 |Derece|Üniversite|Bölüm|Başlangıç Yılı|Bitiş Yılı|
 |---|---|---|---|---|
 -----------------
-|Lisans|İstanbul Üniversiresi
+|Lisans|İstanbul Üniversiresi|Felsefe|2012|2016|
