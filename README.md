@@ -2,10 +2,11 @@
 
 ![](https://avatars3.githubusercontent.com/u/47870917?s=460&v=49)
 
-## iletişim bilgileri:  
-- *e-mail:* [basakurtuldu@gmail.com](mailto:basakurtuldu@gmail.com)
-- *telefon:* +90 5423045786
-- *twitter:* [@KurtulduBasak](https://twitter.com/KurtulduBasak)
+## iletişim bilgileri
+
+- E-posta: [basakurtuldu@gmail.com](mailto:basakurtuldu@gmail.com)
+- Telefon: +90-542-304-5786
+- Twitter: [@KurtulduBasak](https://twitter.com/KurtulduBasak)
 
 
 | Derece | Üniversite | Bölüm | Başlangıç Yılı | Bitiş Yılı |
@@ -16,4 +17,3 @@
 
 
 > Yabancı Diller : İngilizce 
-
