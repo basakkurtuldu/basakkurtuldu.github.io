@@ -12,3 +12,9 @@
 |---|---|---|---|---|
 -----------------
 |Lisans|İstanbul Üniversiresi|Felsefe|2012|2016|
+|Yüksek Lisans|İstanbul Üniversitesi|2016|2019|
+|Doktora|İstanbul Üniversitesi|2019| - | 
+
+
+> Yabancı Diller : İngilizce 
+
