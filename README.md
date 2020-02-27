@@ -27,3 +27,11 @@ Sosyal Bilimler Ensitüsüsü, Felsefe Bölümü, 2019.
 
 ### Araştırma Alanları:
 
+İnformel Mantık, Argümantasyon, Argüman Biçimleri, Argüman Haritalandırma Sistemleri, 
+Argüman Değerlendirme Sistemleri. 
+
+### Yayımlar
+
+Başak Kurtuldu, Douglas Walton'ın Argüman Biçimleri Yaklaşımı, Feslefe Arkivi (51),
+IstanbulUniversity Press, 2019, pp. 161-178.
+
