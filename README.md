@@ -8,12 +8,22 @@
 - *twitter:* [@KurtulduBasak](https://twitter.com/KurtulduBasak)
 
 
+## Eğitim Bilgileri:
+
 | Derece | Üniversite | Bölüm | Başlangıç Yılı | Bitiş Yılı |
 | --- | --- | --- | --- | --- |
-| Lisans | İstanbul Üniversiresi | Felsefe | 2012 | 2016 |
+| Lisans | İstanbul Üniversitesi | Felsefe | 2012 | 2016 |
 | Yüksek Lisans | İstanbul Üniversitesi | Felsefe | 2016 | 2019 |
 | Doktora | İstanbul Üniversitesi | Felsefe | 2019 | - | 
 
+### Yaptığı Tezler:
 
-> Yabancı Diller : İngilizce 
+Yüksek Lisans, "Douglas Walton'ın Argüman Biçimleri ve Uygulamaları", İstanbul Üniversitesi, 
+Sosyal Bilimler Ensitüsüsü, Felsefe Bölümü, 2019.
+
+###Yabancı Diller: 
+
+İngilizce 
+
+### Araştırma Alanları:
 
