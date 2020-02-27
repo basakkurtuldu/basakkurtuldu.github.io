@@ -17,24 +17,23 @@
 | Yüksek Lisans | İstanbul Üniversitesi | Felsefe | 2016 | 2019 |
 | Doktora | İstanbul Üniversitesi | Felsefe | 2019 | - | 
 
-### Yaptığı Tezler:
+## Yaptığı Tezler:
 
 Yüksek Lisans, "Douglas Walton'ın Argüman Biçimleri ve Uygulamaları", İstanbul Üniversitesi, 
 Sosyal Bilimler Ensitüsüsü, Felsefe Bölümü, 2019.
 
-###Yabancı Diller: 
-
-İngilizce 
-
-### Araştırma Alanları:
+## Araştırma Alanları:
 
 İnformel Mantık, Argümantasyon, Argüman Biçimleri, Argüman Haritalandırma Sistemleri, 
 Argüman Değerlendirme Sistemleri. 
 
-### Yayımlar
+## Yayımlar
+
 Başak Kurtuldu, Douglas Walton'ın Argüman Biçimleri Yaklaşımı, Feslefe Arkivi (51),
 IstanbulUniversity Press, 2019, pp. 161-178.
 
-=======
-> Yabancı Diller : İngilizce 
->>>>>>> 1a8276d1af41cfd334f4e0ac5487428ce63a0b3f
+## Yabancı Diller: 
+
+İngilizce 
+
+
