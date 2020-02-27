@@ -42,7 +42,11 @@ IstanbulUniversity Press, 2019, pp. 161-178.
 
 |Lisans| Yüksek Lisans | Doktora |
 | --- | --- | --- |
-| Traditional logic, Classical Logic, History of Logic, Philosophy of Logic,
-Types of Logic, Application of Logic | Logic Readings, Fuzzy Logic Applications, Philosophy
+| Traditional logic
+Classical Logic 
+History of Logic
+Philosophy of Logic
+Types of Logic 
+Application of Logic | Logic Readings, Fuzzy Logic Applications, Philosophy
 of Informal Logic with Papers, Philosophy of Mathematics |Readings on Philosophy of AI, The Recent Period Language Mathematics and Logic Studies, Types
 of Logical Reasoning |
