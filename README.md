@@ -2,10 +2,9 @@
 
 ![](https://avatars3.githubusercontent.com/u/47870917?s=460&v=49)
 
-## iletişim bilgileri
+## İletişim Bilgileri:
 
 - E-posta: [basakurtuldu@gmail.com](mailto:basakurtuldu@gmail.com)
-- Telefon: +90-542-304-5786
 - Twitter: [@KurtulduBasak](https://twitter.com/KurtulduBasak)
 
 
